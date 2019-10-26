@@ -1,0 +1,1 @@
+"./LCD_I2C.obj" "./clock.obj" "./main.obj" "../lnk_msp430fr5994.cmd" -llibmath.a -llibc.a 
